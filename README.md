@@ -1,16 +1,78 @@
-## Hi there 👋
+## Привет!👋 Меня зовут Михаил
 
-<!--
-**SM-PMN/SM-PMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я развиваюсь в направлении DevOps и Linux System Administration. Мне интересно, как устроена работа сервисов под капотом: от Linux, сети и баз данных до автоматизации, мониторинга и доставки изменений.
 
-Here are some ideas to get you started:
+Выбрал это направление как понятный инженерный трек, где результат работы можно увидеть на практике: сервис развернут, инфраструктура описана кодом, регулярные операции автоматизированы, а метрики и логи доступны для анализа.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Открыт к профессиональным предложениям в области DevOps и системного администрирования.
+
+### Чем занимаюсь
+- Автоматизирую типовые административные задачи с использованием Bash и Python.
+- Разворачиваю инфраструктуру в Yandex Cloud с помощью Terraform и Ansible.
+- Настраиваю Linux-серверы, Nginx, HAProxy, PostgreSQL, Patroni, etcd и Zabbix.
+- Изучаю Docker, Kubernetes и GitLab CI.
+- Веду технические конспекты в Obsidian и регулярно работаю с официальной документацией.
+
+### Практический опыт
+
+#### Отказоустойчивая платформа корпоративной документации
+
+Развернул платформу документации на базе MediaWiki с использованием:
+- Terraform
+- Ansible
+- Nginx
+- PostgreSQL
+- Patroni
+- etcd
+- HAProxy
+- Zabbix
+
+Проект позволил отработать подход Infrastructure as Code, автоматизацию настройки серверов, базовую отказоустойчивость и мониторинг доступности сервиса.
+
+#### Автоматизация административных задач
+
+Пишу Bash- и Python-скрипты для повторяемых операций, чтобы снижать количество ручных действий, повышать воспроизводимость процессов и уменьшать риск ошибок.
+
+### Технологии и инструменты
+
+**Операционные системы и администрирование**
+- Linux
+- Администрирование Linux-серверов
+- Bash
+
+**DevOps и Infrastructure as Code**
+- Terraform
+- Ansible
+- Git
+- GitLab CI — изучаю
+- Docker — изучаю
+- Kubernetes — изучаю
+
+**Web и балансировка**
+- Nginx
+- HAProxy
+
+**Базы данных и отказоустойчивость**
+- PostgreSQL
+- Patroni
+- etcd
+- MySQL
+
+**Мониторинг**
+- Zabbix
+
+**Языки**
+- Python
+- Bash
+- Английский — A2
+
+### Обучение и курсы
+- АНО ДПО «Образовательные технологии Яндекса» — Системный администратор
+- ЧОУ ДПО «ИНВЕНТА» — RH124, RH134, RH255: Red Hat System Administration
+- Компания «Клеверикс» — Основы ITIL v3
+- НОУ ДПО «Учебный Центр «Микротест» — Agile / Scrum Foundation
+
+### 📫 Контакты
+- Telegram: [@sedoymike](https://t.me/sedoymike)
+- GitHub: [SM-PMN](https://github.com/SM-PMN)
+- Статус: открыт к профессиональным предложениям в области DevOps и Linux Administration
